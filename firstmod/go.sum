@@ -1,0 +1,4 @@
+github.com/wzkun/testmod v1.0.1 h1:Q1s7O2S9jbgcBu5izQYZyqdzJ+egJD90DzyFwPke+Hw=
+github.com/wzkun/testmod v1.0.1/go.mod h1:Nlhnz6xIOzbji1G1nP6cB1rU8WMkqT/3mZ+X+I62ovM=
+github.com/wzkun/testmod/v2 v2.0.0 h1:1CBT9GEYnZnHnNnr3Jp4hVM3afqYJ62AYuC+3xWO1co=
+github.com/wzkun/testmod/v2 v2.0.0/go.mod h1:dPBkYYphBNBvzX3dkPaKB/AGLZu3MukcATCevKEsgI0=
